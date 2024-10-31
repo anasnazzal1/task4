@@ -1,0 +1,20 @@
+.logo{
+    background-color: rgb(255, 179, 0);
+    color: white;
+    font-size:70px;
+    border-radius: 50%;
+    width: 150px;
+    height: 100px;
+}
+.main {
+    text-align: center;
+  
+}
+.sec {
+   
+    float: left;
+    width: calc(100%/3);
+}
+p {
+    color:darkgray
+}
